@@ -8,5 +8,6 @@ public class class12
 		
 		System.out.println("hii");
 		System.out.println("hellow");
+		System.out.println("byr");
 	}
 }
